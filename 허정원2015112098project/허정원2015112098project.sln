@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "허정원2015112098project", "허정원2015112098project\허정원2015112098project.csproj", "{A717AE94-4844-4F45-9DA5-DC44D133183D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPComm", "HTTPComm\HTTPComm.csproj", "{137B9173-25BD-4B85-B906-37D4CD2CD5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A717AE94-4844-4F45-9DA5-DC44D133183D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A717AE94-4844-4F45-9DA5-DC44D133183D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A717AE94-4844-4F45-9DA5-DC44D133183D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A717AE94-4844-4F45-9DA5-DC44D133183D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137B9173-25BD-4B85-B906-37D4CD2CD5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137B9173-25BD-4B85-B906-37D4CD2CD5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137B9173-25BD-4B85-B906-37D4CD2CD5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137B9173-25BD-4B85-B906-37D4CD2CD5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38DBFB08-95AD-4360-9820-59D0ABDF5517}
+	EndGlobalSection
+EndGlobal
